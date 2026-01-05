@@ -1,4 +1,6 @@
-
+## Social
+[![Leetcode](https://img.shields.io/badge/Leetcode-ffa116.svg?&logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Endstater/)
+## Skills
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white&style=for-the-badge)](#) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](#) [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff&style=for-the-badge)](#)
 
   <div>
