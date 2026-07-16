@@ -259,12 +259,23 @@
        id="rect23"
        width="49.53368"
        height="18.431137"
-       x="5.5945096"
-       y="123.01007"
+       x="95"
+       y="70"
        ry="6.1437125"
        transform="rotate(-44.917686)"
        inkscape:transform-center-x="-16.478699"
-       inkscape:transform-center-y="-6.584255" /><g
+       inkscape:transform-center-y="-6.584255" 
+                                           >
+<animateTransform 
+      attributeName="transform" 
+      attributeType="XML"
+      type="rotate"
+      values="-20 95 70; 40 95 70; -20 95 70"
+      dur="0.5s" 
+      repeatCount="indefinite" 
+    />
+          
+                                           </rect><g
        inkscape:label="Layer 1"
        id="layer1-2"
        transform="matrix(0.26232681,-0.02056187,-0.02056187,0.26232681,36.137932,40.270194)"><g
