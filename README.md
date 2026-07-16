@@ -1,3 +1,5 @@
+<img src="./dumb.svg"/>
+
 ## Social
 [![Leetcode](https://img.shields.io/badge/Leetcode-ffa116.svg?&logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Endstater/)
 ## Skills
